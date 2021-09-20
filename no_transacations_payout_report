@@ -1,0 +1,3 @@
+Marketpay Payout Report
+Market Place,Account Holder,Account,Record Type,Psp Reference,Payment Psp Reference,Payment Merchant Reference,Capture Psp Reference,Capture Merchant Reference,Payout Psp Reference,Chargeback Psp Reference,Booking Date,TimeZone,Currency,Amount,Rolling Balance
+AffiniPayLLC,69sd0kUNjKxb0nmzjpZSUc-42OXkP5fUlfYJtq8CYPZSd,4216206140146933,Payout,5716252271657548,,,,,5716252271657548,,2021-07-02 07:57:36,EDT,USD,0.00,0.00
