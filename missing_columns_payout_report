@@ -1,0 +1,5 @@
+Marketpay Payout Report
+Market Place,Account Holder,Record Type,Psp Reference,Payment Psp Reference,Capture Psp Reference,Capture Merchant Reference,Payout Psp Reference,Chargeback Psp Reference,Booking Date,TimeZone,Currency,Amount,Rolling Balance
+AffiniPayLLC,69sd0kUNjKxb0nmzjpZSUc-42OXkP5fUlfYJtq8CYPZSd,Credited,2416251125307169,1539250508307253,1736251124754846,69sd0kUNjKxb0nmzjpZSUc-42OXkP5fUlfYJtq8CYPZSd-6LyioJhaEXqxnc4ZgbthJd-capture,,,2021-07-02 01:41:17,EDT,USD,420.84,420.84
+AffiniPayLLC,69sd0kUNjKxb0nmzjpZSUc-42OXkP5fUlfYJtq8CYPZSd,Credited,2316251125320551,6129250634226844,1826251124752569,69sd0kUNjKxb0nmzjpZSUc-42OXkP5fUlfYJtq8CYPZSd-2ud3hYu0xJ65HHBuSd91e0-capture,,,2021-07-02 01:41:17,EDT,USD,1000.00,1420.84
+AffiniPayLLC,69sd0kUNjKxb0nmzjpZSUc-42OXkP5fUlfYJtq8CYPZSd,Payout,5716252271657548,,,,5716252271657548,,2021-07-02 07:57:36,EDT,USD,-1420.84,0.00
